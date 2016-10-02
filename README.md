@@ -1,6 +1,6 @@
 Oct2-7 Assignment on playing with R and trignometric functions
 
-* Plot sin, cos and tan functions for values 0 - 8 &pi; radians
+* Plot sin, cos and tan functions for values 0 - 8&pi; radians
 
 ** final deliverable is in a single plot, 3 colors with legend describing what function it is
 
@@ -14,11 +14,11 @@ Oct2-7 Assignment on playing with R and trignometric functions
 
 * Plot the functions
 
-** 1 - sinxcosx for x 0 - 2 \pi radians
+** 1 - sinxcosx for x 0 - 2&pi; radians
 
-** sinx - cosx for x 0 - 2 \pi radians
+** sinx - cosx for x 0 - 2&pi; radians
 
-** 1- square(tanx) for x 0 - 2 \pi radians
+** 1- square(tanx) for x 0 - 2&pi; radians
  
 
 
